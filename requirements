@@ -1,6 +1,6 @@
+streamlit
 pandas
 emoji
 seaborn
-re
-preprocessor
-helper
+urlextract
+matplotlib
